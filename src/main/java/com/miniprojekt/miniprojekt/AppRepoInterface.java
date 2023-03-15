@@ -4,6 +4,6 @@ import java.io.IOException;
 
 public interface AppRepoInterface {
 
-    void converter();
+    void converter() throws IOException;
 
 }

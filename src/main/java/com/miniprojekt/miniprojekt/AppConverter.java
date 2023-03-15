@@ -21,7 +21,7 @@ public class AppConverter {
     public AppConverter(AppRepoInterface appRepoInterface) {
     }
 
-    public void starts() {
+    public void starts() throws IOException {
         System.out.println("Select what type of conversion would you like to do: ");
         printChoices();
         System.out.println(" ");
@@ -35,7 +35,7 @@ public class AppConverter {
         }
     }
 
-    public int selectChoice(int number) {
+    public int selectChoice(int number) throws IOException {
         if (number < 1 || number > appSystem.numberOfChoices()) {
             System.out.println("there is no such choice");
         }

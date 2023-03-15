@@ -1,55 +1,10 @@
-{
-    "fields": [
-      {
-        "name": "Ziemniak",
-        "cena": 5,
-        "ilość": 10
-      },
-      {
-        "name": "burak",
-        "cena": 3,
-        "ilość": 5
-      },
-      {
-        "name": "sałata",
-        "cena": 3,
-        "ilość": 1
-      },
-      {
-        "name": "kalarepa",
-        "cena": 3,
-        "ilość": 1
-      },
-      {
-        "name": "marchewki",
-        "cena": 4,
-        "ilość": 3
-      },
-      {
-        "name": "cebula",
-        "cena": 1,
-        "ilość": 1
-      },
-      {
-        "name": "pieczarki",
-        "cena": 8,
-        "ilość": 7
-      },
-      {
-        "name": "banan",
-        "cena": 3,
-        "ilość": 1
-      },
-      {
-        "name": "jabłka",
-        "cena": 3,
-        "ilość": 3
-      },
-      {
-        "name": "cytryna",
-        "cena": 2,
-        "ilość": 1
-      }
-  
-    ]
-  }
+     [{"name": "Ziemniak","cena": 5,"ilość": 10 },
+      {"name": "burak", "cena": 3, "ilość": 5 },
+      {"name": "sałata", "cena": 3, "ilość": 1 },
+      {"name": "kalarepa", "cena": 3, "ilość": 1 },
+      {"name": "marchewki", "cena": 4, "ilość": 3 },
+      {"name": "cebula", "cena": 1, "ilość": 1 },
+      {"name": "pieczarki", "cena": 8, "ilość": 7 },
+      {"name": "banan", "cena": 3, "ilość": 1 },
+      {"name": "jabłka", "cena": 3, "ilość": 3 },
+      {"name": "cytryna", "cena": 2, "ilość": 1 } ]
